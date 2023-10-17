@@ -1,1 +1,15 @@
-/Library
+Library/
+.vscode/
+ProjectSettings/
+UserSettings/
+*.csproj
+Logs/
+Temp/
+/obj
+*.sln
+*.userprefs
+*.pidb
+*.unityproj
+.DS_Store
+/Builds
+build/
